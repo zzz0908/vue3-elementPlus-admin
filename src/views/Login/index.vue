@@ -1,5 +1,8 @@
 <template>
   <div id="login-wrapper">
+    <div id='stars'></div>
+    <div id='stars2'></div>
+    <div id='stars3'></div>
     <div class="login-box">
       <h2>vue3-element-plus 管理平台</h2>
       <form>
@@ -60,8 +63,10 @@ export default defineComponent({
 </script>
 <style scoped>
 #login-wrapper {
-  background: linear-gradient(#141e30, #243b55);
+  /* background: linear-gradient(#141e30, #243b55); */
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
   height: 100%;
+  overflow: hidden;
 }
 .login-box {
   position: absolute;
