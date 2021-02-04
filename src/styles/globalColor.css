@@ -1,0 +1,29 @@
+/* 默认皮肤 */
+.base{
+    --menuBg: rgb(84, 92, 100);
+    --menuTextColor:#fff;
+    --menuActiveTextColor:#ffd04b;
+    --menuHoverBg:#ccc;
+}
+/* 红色皮肤 */
+.red{
+    --menuBg:#d93a49;
+    --menuTextColor:#9b95c9;
+    --menuActiveTextColor:#fff;
+    --menuHoverBg:#f3715c;
+}
+
+/* 绿色皮肤 */
+.green{
+    --menuBg:#7fb80e;
+    --menuTextColor:#fff;
+    --menuActiveTextColor:#ffd04b;
+    --menuHoverBg:#ccc;
+}
+/* 黑色皮肤 */
+.black{
+    --menuBg:black;
+    --menuTextColor:#fff;
+    --menuActiveTextColor:#ffd04b;
+    --menuHoverBg:#ccc;
+}

@@ -1,0 +1,11 @@
+
+/* 修改elementui的默认样式 */
+.el-menu{
+    border-right:none !important;
+}
+.el-menu-item:hover,.el-submenu__title:hover{
+    background: var(--menuHoverBg) !important;
+}
+.el-header{
+    padding: 0 !important;
+}
