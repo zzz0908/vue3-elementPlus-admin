@@ -8,7 +8,7 @@
     6、  皮肤切换 
     7、  假数据模拟路由菜单 
 ## gif示例
-![image](https://github.com/zzz0908/vue3-elementPlus-admin/blob/master/v3.gif)
+![image](https://github.com/zzz0908/vue3-elementPlus-admin/master/v3.gif)
 ## Project setup
 ```
 yarn install
