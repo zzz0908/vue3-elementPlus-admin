@@ -1,5 +1,12 @@
 # v3-element
-
+## 基于vue3.x 实现的后台管理系统模板
+    1、  登录逻辑.
+    2、  基本布局(基于elementPlus)
+    3、  动态路由逻辑
+    4、  动态菜单栏逻辑
+    5、  面包屑 
+    6、  皮肤切换 
+    7、  假数据模拟路由菜单 
 ## Project setup
 ```
 yarn install
